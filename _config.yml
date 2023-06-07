@@ -69,4 +69,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
-theme: jekyll-sleek
+#theme: jekyll-sleek
